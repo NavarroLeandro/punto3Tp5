@@ -2,7 +2,9 @@
 
 ![Javascript](./img/JavaScript-logo.png)
 
-En este repositorio encontraran la practica hecha con Javascript del curso de **Rolling Code School** correspondiente a la **Cuarta parte practica**. Son libres de ver y clonar el repositorio para aprender junto a nosotros.
+En este repositorio encontraran la practica hecha con Javascript del curso de **Rolling Code School** correspondiente a la **Quinta parte practica**. Son libres de ver y clonar el repositorio para aprender junto a nosotros.
+
+En este ejercicio creamos una lista y seremos capaces de agregar y eliminar elementos de la misma, y visualizarla tambien!!
 
 >## Integrante del proyecto
 - Navarro Leandro [GitHub](https://github.com/NavarroLeandro)
